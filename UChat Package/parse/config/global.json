@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "WhatsUp": {
+            "applicationId": "NDHp3Dr18yCMsZnAo8w99GVRyX1qzCqlljkmtBfT", 
+            "masterKey": "tdqdgCzWErcmMpaLTfMZaAdURt8XFT8lfCp6dzVy"
+        }, 
+        "_default": {
+            "link": "WhatsUp"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}
