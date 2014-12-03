@@ -5,7 +5,8 @@ uChatPackage
 
 Parse Chat Application like WhatsApp & WeChat - uChat
 
-Overview
+Overview:
+
 This is a chat app created using a few different GitHub repositories - using Parse Cloud and Parse iOS SDK and Twilio text message authentication pins.
 
 Will post proper code snippets and squish the bugs if this gets any interest.
