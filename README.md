@@ -1,6 +1,8 @@
 uChatPackage
 ============
 
+![Alt text](/UChat Package/aero_energy_wallpaper_abstract_other_wallpaper_1920_1200_widescreen_2103 copy.jpg?raw=true "uChat")
+
 Parse Chat Application like WhatsApp & WeChat - uChat
 
 Overview
@@ -16,4 +18,3 @@ Parse SDK, Parse Cloud Code, Twilio Cloud API used within the Parse Cloud code
 iOS8 Ready!
 
 Demo Video: https://www.youtube.com/watch?v=Dzm2vrt0OTQ&feature=youtu.be
-![Alt text](/UChat Package/aero_energy_wallpaper_abstract_other_wallpaper_1920_1200_widescreen_2103 copy.jpg?raw=true "uChat")
