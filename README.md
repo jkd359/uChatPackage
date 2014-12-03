@@ -14,3 +14,4 @@ Features and Requirements
 Parse SDK, Parse Cloud Code, Twilio Cloud API used within the Parse Cloud code
 
 iOS8 Ready!
+http://content.chupamobile.com/user-upload2/product-image-hero/IEKajZgROFMtrrTuOOyyfyK9_1_HeroImage650x290.jpg
